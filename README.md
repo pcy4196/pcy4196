@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **spring framework, SQL(oracle, MySql...), jQuery, javaScript(basic), nexacro, websquare**
 
-- 📫 How to reach me **pcy4196@gmil.com, pcy4196@naver.com**
+- 📫 How to reach me **pcy4196@kakao.com, pcy4196@naver.com**
 
 - ⚡ Fun fact ** I am a back-end developer with accounting knowledge **
 
