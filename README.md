@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=170&section=header&text=PCY%27S%20GitHub&animation=fadeIn&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=170&section=header&text=PCY%27S%20GitHub&animation=fadeIn&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=80)
 
 <h1 align="center">Hi 👋, I'm Chan-Yu Park</h1>
 <h3 align="center">A steadily getting better back-end developer from South Korea</h3>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pcy4196@kakao.com, pcy4196@naver.com**
 
-- ⚡ Fun fact ** I am a back-end developer with accounting knowledge **
+- ⚡ Fun fact ** I am a Back-End Developer with Accounting Knowledge **
 
 
 <h3 align="left">Languages and Tools:</h3>
