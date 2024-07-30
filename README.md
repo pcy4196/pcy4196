@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Chan-Yu Park</h1>
 <h3 align="center">A steadily getting better back-end developer from South Korea</h3>
-
+<!--
 - 🔭 I’m currently working on [Hyundai HDS](https://www.hyundaihds.co.kr/homepage/common/index.do)
-
-- 🌱 I’m currently learning **JPA, springBoot, SQLP, advanced JAVA, Python after work**
+-->
+- 🌱 I’m currently learning **JPA, springBoot, advanced JAVA, Python, docker, aws**
 
 - 💬 Ask me about **spring framework, SQL(oracle, MySql...), jQuery, javaScript(basic), nexacro, websquare**
 
