@@ -7,7 +7,7 @@
 -->
 - 🌱 I’m currently learning **JPA, springBoot, advanced JAVA, Python, docker, aws**
 
-- 💬 Ask me about **spring framework, SQL(oracle, MySql...), jQuery, javaScript(basic), nexacro, websquare**
+- 💬 Ask me about **spring framework, SQL(ORACLE, MySql...), jQuery, javaScript(basic), nexacro, websquare**
 
 - 📫 How to reach me **pcy4196@kakao.com, pcy4196@naver.com**
 
