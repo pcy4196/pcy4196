@@ -5,7 +5,7 @@
 <!--
 - 🔭 I’m currently working on [Hyundai HDS](https://www.hyundaihds.co.kr/homepage/common/index.do)
 -->
-- 🌱 I’m currently learning **JPA, springBoot, advanced JAVA, Python, docker, aws**
+- 🌱 I’m currently learning **JPA, springBoot, advanced JAVA, Python, docker, aws, vue.js**
 
 - 💬 Ask me about **spring framework, SQL(ORACLE, MySql...), jQuery, javaScript(basic), nexacro, websquare**
 
